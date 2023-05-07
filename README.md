@@ -30,5 +30,5 @@ How i collected it:
 - Build Efficient Frontier with Short Selling
 - Building Efficient Frontier without Short Selling
 - Comparing 2 Efficient Frontier above
-- Building CML
-- Building SML
+- Building the Capital Market Line - CML
+- Building the Security Market Line - SML
