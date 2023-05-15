@@ -6,6 +6,14 @@ The modern portfolio theory (MPT) is a practical method for selecting investment
 
 A key component of the MPT theory is diversification. Most investments are either high risk and high return or low risk and low return. Markowitz argued that investors could achieve their best results by choosing an optimal mix of the two based on an assessment of their individual tolerance to risk.
 
+The diversity should be considered: 
+- Geography diversification: Domestic/Foreign 
+- Organization diversification: Fund, Exchange Stocks, Bank,...
+- Asset diversification: Bonds, Stocks, Commodities, certificates of deposit (CDs), Real estate, Cash,...
+- Field diversification: FMCG, Retail, Tech, Real Estate,...
+
+In this case study, I'm building a Stocks Portfolio using stocks only from Germany to simplify the process of applying Markowitz Theory, since we have to consider the risk-free rate of the portfolio, and also the Market Portfolio which is regarded as German stock index (DAX)
+
 ## Objective: Building an efficient portfolio according to Markowitz Theory. Using the Capital Asset Pricing Model CAPM to evaluate stocks.
 
 I collected the price of 30 stocks in the Frankfurt Stock Exchange (Germany) from February 2015 to March 2021. 
