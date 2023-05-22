@@ -12,7 +12,7 @@ The diversity should be considered:
 - Asset diversification: Bonds, Stocks, Commodities, certificates of deposit (CDs), Real estate, Cash,...
 - Field diversification: FMCG, Retail, Tech, Real Estate,...
 
-In this case study, I'm building a Stocks Portfolio using stocks only from Germany to simplify the process of applying Markowitz Theory since we have to consider the Market Portfolio which is regarded as the German stock index (DAX), and also, if I build a portfolio with stocks that trade in a different currency, I have to consider much about the exchange rate and the method to determine the exchange rate
+In this case study, I'm building a Stocks Portfolio using stocks only from Germany to simplify the process of applying Markowitz Theory since we have to consider the Market Portfolio which is regarded as the German stock index (DAX), and also, if I build a portfolio with stocks that trade in different currencies, I have to consider much about the exchange rate and the method to determine the exchange rate
 
 ## Objective: Building an efficient portfolio according to Markowitz Theory. Using the Capital Asset Pricing Model CAPM to evaluate stocks.
 
